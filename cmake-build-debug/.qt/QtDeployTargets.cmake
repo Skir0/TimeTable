@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_TimeTable_FILE /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable)
+set(__QT_DEPLOY_TARGET_TimeTable_TYPE EXECUTABLE)

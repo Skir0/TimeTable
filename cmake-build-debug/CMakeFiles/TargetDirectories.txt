@@ -1,0 +1,5 @@
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/TimeTable.dir
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/TimeTable_autogen_timestamp_deps.dir
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/TimeTable_autogen.dir

@@ -1,4 +1,6 @@
-
+//
+// Created by Kirill Smychok on 18.03.25.
+//
 #include "Schedule.h"
 #include "DateSchedule.h"
 

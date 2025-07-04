@@ -1,4 +1,13 @@
 {
     "schedule": [
+        {
+            "date": "2025-07-16",
+            "events": [
+                {
+                    "task": "asdadasd",
+                    "time": "18:51"
+                }
+            ]
+        }
     ]
 }

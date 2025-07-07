@@ -29,3 +29,11 @@
 50	2618	1751644551677063668	CMakeFiles/TimeTable.dir/main.cpp.o	46497560e49fa856
 2200	5236	1751644553827773566	CMakeFiles/TimeTable.dir/main_window.cpp.o	8aa23b36a42acc88
 5238	5345	1751644556864963523	TimeTable	c90524fc238e9458
+16	63	1751886802502435289	TimeTable_autogen/timestamp	ae9712a678565e31
+16	63	1751886802502435289	TimeTable_autogen/mocs_compilation.cpp	ae9712a678565e31
+16	63	1751886802502435289	/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/timestamp	ae9712a678565e31
+16	63	1751886802502435289	/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/mocs_compilation.cpp	ae9712a678565e31
+63	1216	1751886802549888125	CMakeFiles/TimeTable.dir/Schedule.cpp.o	3472eb9fc3ac704
+63	1246	1751886802550144830	CMakeFiles/TimeTable.dir/Utils.cpp.o	56726fc7638ed08d
+64	2364	1751886802550269621	CMakeFiles/TimeTable.dir/main_window.cpp.o	8aa23b36a42acc88
+2364	2478	1751886804850761233	TimeTable	c90524fc238e9458

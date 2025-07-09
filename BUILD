@@ -81,7 +81,7 @@ qt_cc_library(
 
 # Main binary
 qt_cc_binary(
-    name = "TimeTable",
+    name = "task_2",
     srcs = ["main.cpp"],
     deps = [
         ":main_window_lib",

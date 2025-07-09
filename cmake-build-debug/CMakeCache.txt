@@ -194,7 +194,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=TimeTable
+CMAKE_PROJECT_NAME:STATIC=task_2
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib
@@ -345,6 +345,15 @@ Vulkan_LIBRARY:FILEPATH=Vulkan_LIBRARY-NOTFOUND
 
 //Path to a library.
 WrapOpenGL_AGL:FILEPATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/AGL.framework
+
+//Value Computed by CMake
+task_2_BINARY_DIR:STATIC=/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug
+
+//Value Computed by CMake
+task_2_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+task_2_SOURCE_DIR:STATIC=/Users/kirill_smychok/CLionProjects/TimeTable
 
 //Value Computed by CMake
 test_project_BINARY_DIR:STATIC=/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug

@@ -1,5 +1,5 @@
-/Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/cmake-build-debug/task_2_autogen/EWIEGA46WW/moc_main_window.cpp: /Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/main_window.h \
-  /Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/cmake-build-debug/task_2_autogen/moc_predefs.h \
+/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/EWIEGA46WW/moc_main_window.cpp: /Users/kirill_smychok/CLionProjects/TimeTable/main_window.h \
+  /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \
@@ -909,9 +909,9 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stdarg_va_list.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
-  /Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/DateSchedule.h \
-  /Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/Event.h \
-  /Users/kirill_smychok/CLionProjects/time_table/labs/basics/task_2/Schedule.h \
+  /Users/kirill_smychok/CLionProjects/TimeTable/DateSchedule.h \
+  /Users/kirill_smychok/CLionProjects/TimeTable/Event.h \
+  /Users/kirill_smychok/CLionProjects/TimeTable/Schedule.h \
   /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QJsonDocument \
   /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QJsonObject \
   /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QList \

@@ -17,12 +17,12 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "TimeTable_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"id" : "task_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "TimeTable_autogen::@6890427a1f51a3e7e1df",
+	"id" : "task_2_autogen::@6890427a1f51a3e7e1df",
 	"isGeneratorProvided" : true,
-	"name" : "TimeTable_autogen",
+	"name" : "task_2_autogen",
 	"paths" : 
 	{
 		"build" : ".",
@@ -51,19 +51,19 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/TimeTable_autogen",
+			"path" : "cmake-build-debug/CMakeFiles/task_2_autogen",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/TimeTable_autogen.rule",
+			"path" : "cmake-build-debug/CMakeFiles/task_2_autogen.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/TimeTable_autogen/timestamp.rule",
+			"path" : "cmake-build-debug/task_2_autogen/timestamp.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

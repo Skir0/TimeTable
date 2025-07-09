@@ -918,7 +918,7 @@
  mdp:/Users/kirill_smychok/CLionProjects/TimeTable/DateSchedule.h
  mdp:/Users/kirill_smychok/CLionProjects/TimeTable/Event.h
  mdp:/Users/kirill_smychok/CLionProjects/TimeTable/Schedule.h
- mdp:/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/moc_predefs.h
+ mdp:/Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/moc_predefs.h
  mdp:/Users/kirill_smychok/CLionProjects/TimeTable/main_window.h
  mdp:/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QJsonDocument
  mdp:/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/QJsonObject

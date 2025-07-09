@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: TimeTable
+# Project: task_2
 # Configurations: Debug
 # =============================================================================
 
@@ -41,87 +41,87 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target TimeTable
+# Object build statements for EXECUTABLE target task_2
 
 
 #############################################
-# Order-only phony target for TimeTable
+# Order-only phony target for task_2
 
-build cmake_object_order_depends_target_TimeTable: phony || TimeTable_autogen TimeTable_autogen/mocs_compilation.cpp TimeTable_autogen/timestamp TimeTable_autogen_timestamp_deps
+build cmake_object_order_depends_target_task_2: phony || task_2_autogen task_2_autogen/mocs_compilation.cpp task_2_autogen/timestamp task_2_autogen_timestamp_deps
 
-build CMakeFiles/TimeTable.dir/TimeTable_autogen/mocs_compilation.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/task_2_autogen/mocs_compilation.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/TimeTable_autogen/mocs_compilation.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/task_2_autogen/mocs_compilation.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir/TimeTable_autogen
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir/task_2_autogen
 
-build CMakeFiles/TimeTable.dir/DateSchedule.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/DateSchedule.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/DateSchedule.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/DateSchedule.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/DateSchedule.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/DateSchedule.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
-build CMakeFiles/TimeTable.dir/Event.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Event.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/Event.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Event.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/Event.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/Event.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
-build CMakeFiles/TimeTable.dir/Schedule.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Schedule.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/Schedule.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Schedule.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/Schedule.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/Schedule.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
-build CMakeFiles/TimeTable.dir/Utils.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Utils.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/Utils.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/Utils.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/Utils.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/Utils.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
-build CMakeFiles/TimeTable.dir/main.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/main.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/main.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/main.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/main.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/main.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
-build CMakeFiles/TimeTable.dir/main_window.cpp.o: CXX_COMPILER__TimeTable_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/main_window.cpp || cmake_object_order_depends_target_TimeTable
+build CMakeFiles/task_2.dir/main_window.cpp.o: CXX_COMPILER__task_2_unscanned_Debug /Users/kirill_smychok/CLionProjects/TimeTable/main_window.cpp || cmake_object_order_depends_target_task_2
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/TimeTable.dir/main_window.cpp.o.d
+  DEP_FILE = CMakeFiles/task_2.dir/main_window.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
-  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
-  OBJECT_FILE_DIR = CMakeFiles/TimeTable.dir
+  INCLUDES = -isystem /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/include -isystem /opt/homebrew/lib/QtCore.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtWidgets.framework/Headers
+  OBJECT_DIR = CMakeFiles/task_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/task_2.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target TimeTable
+# Link build statements for EXECUTABLE target task_2
 
 
 #############################################
-# Link the executable TimeTable
+# Link the executable task_2
 
-build TimeTable: CXX_EXECUTABLE_LINKER__TimeTable_Debug CMakeFiles/TimeTable.dir/TimeTable_autogen/mocs_compilation.cpp.o CMakeFiles/TimeTable.dir/DateSchedule.cpp.o CMakeFiles/TimeTable.dir/Event.cpp.o CMakeFiles/TimeTable.dir/Schedule.cpp.o CMakeFiles/TimeTable.dir/Utils.cpp.o CMakeFiles/TimeTable.dir/main.cpp.o CMakeFiles/TimeTable.dir/main_window.cpp.o | /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore || TimeTable_autogen TimeTable_autogen_timestamp_deps
+build task_2: CXX_EXECUTABLE_LINKER__task_2_Debug CMakeFiles/task_2.dir/task_2_autogen/mocs_compilation.cpp.o CMakeFiles/task_2.dir/DateSchedule.cpp.o CMakeFiles/task_2.dir/Event.cpp.o CMakeFiles/task_2.dir/Schedule.cpp.o CMakeFiles/task_2.dir/Utils.cpp.o CMakeFiles/task_2.dir/main.cpp.o CMakeFiles/task_2.dir/main_window.cpp.o | /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore || task_2_autogen task_2_autogen_timestamp_deps
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk
   LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets  /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui  -framework AGL  -framework AppKit  -framework OpenGL  -framework ImageIO  -framework Metal  /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration  -framework UniformTypeIdentifiers
   LINK_PATH = -F/opt/homebrew/lib
-  OBJECT_DIR = CMakeFiles/TimeTable.dir
+  OBJECT_DIR = CMakeFiles/task_2.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = TimeTable
-  TARGET_PDB = TimeTable.dbg
+  TARGET_FILE = task_2
+  TARGET_PDB = task_2.dbg
 
 
 #############################################
@@ -148,32 +148,32 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 
 #############################################
-# Utility command for TimeTable_autogen_timestamp_deps
+# Utility command for task_2_autogen_timestamp_deps
 
-build TimeTable_autogen_timestamp_deps: phony
-
-
-#############################################
-# Utility command for TimeTable_autogen
-
-build TimeTable_autogen: phony CMakeFiles/TimeTable_autogen TimeTable_autogen/timestamp TimeTable_autogen/mocs_compilation.cpp TimeTable_autogen_timestamp_deps
+build task_2_autogen_timestamp_deps: phony
 
 
 #############################################
-# Custom command for TimeTable_autogen/timestamp
+# Utility command for task_2_autogen
 
-build TimeTable_autogen/timestamp TimeTable_autogen/mocs_compilation.cpp | ${cmake_ninja_workdir}TimeTable_autogen/timestamp ${cmake_ninja_workdir}TimeTable_autogen/mocs_compilation.cpp: CUSTOM_COMMAND /opt/homebrew/share/qt/libexec/moc /opt/homebrew/share/qt/libexec/uic || TimeTable_autogen_timestamp_deps
-  COMMAND = cd /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E cmake_autogen /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/TimeTable_autogen.dir/AutogenInfo.json Debug && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E touch /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/timestamp && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E cmake_transform_depfile Ninja gccdepfile /Users/kirill_smychok/CLionProjects/TimeTable /Users/kirill_smychok/CLionProjects/TimeTable /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/TimeTable_autogen/deps /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/d/55334075a5660bdead33d59982ee7fe3e842e026352635320ba66629a001d607.d
-  DESC = Automatic MOC and UIC for target TimeTable
-  depfile = CMakeFiles/d/55334075a5660bdead33d59982ee7fe3e842e026352635320ba66629a001d607.d
+build task_2_autogen: phony CMakeFiles/task_2_autogen task_2_autogen/timestamp task_2_autogen/mocs_compilation.cpp task_2_autogen_timestamp_deps
+
+
+#############################################
+# Custom command for task_2_autogen/timestamp
+
+build task_2_autogen/timestamp task_2_autogen/mocs_compilation.cpp | ${cmake_ninja_workdir}task_2_autogen/timestamp ${cmake_ninja_workdir}task_2_autogen/mocs_compilation.cpp: CUSTOM_COMMAND /opt/homebrew/share/qt/libexec/moc /opt/homebrew/share/qt/libexec/uic || task_2_autogen_timestamp_deps
+  COMMAND = cd /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E cmake_autogen /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/task_2_autogen.dir/AutogenInfo.json Debug && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E touch /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/timestamp && /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E cmake_transform_depfile Ninja gccdepfile /Users/kirill_smychok/CLionProjects/TimeTable /Users/kirill_smychok/CLionProjects/TimeTable /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/task_2_autogen/deps /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug/CMakeFiles/d/1bb84bb9a8e99d0823ddd608a77a1d8ee9f31bcd5b49f0b3aae29ece1b70f1ca.d
+  DESC = Automatic MOC and UIC for target task_2
+  depfile = CMakeFiles/d/1bb84bb9a8e99d0823ddd608a77a1d8ee9f31bcd5b49f0b3aae29ece1b70f1ca.d
   deps = gcc
   restat = 1
 
 
 #############################################
-# Phony custom command for CMakeFiles/TimeTable_autogen
+# Phony custom command for CMakeFiles/task_2_autogen
 
-build CMakeFiles/TimeTable_autogen | ${cmake_ninja_workdir}CMakeFiles/TimeTable_autogen: phony TimeTable_autogen/timestamp || TimeTable_autogen_timestamp_deps
+build CMakeFiles/task_2_autogen | ${cmake_ninja_workdir}CMakeFiles/task_2_autogen: phony task_2_autogen/timestamp || task_2_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.
@@ -186,7 +186,7 @@ build CMakeFiles/TimeTable_autogen | ${cmake_ninja_workdir}CMakeFiles/TimeTable_
 #############################################
 # Folder: /Users/kirill_smychok/CLionProjects/TimeTable/cmake-build-debug
 
-build all: phony TimeTable
+build all: phony task_2
 
 # =============================================================================
 # Built-in targets

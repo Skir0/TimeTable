@@ -14,9 +14,9 @@
 			}
 		]
 	},
-	"id" : "TimeTable_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"id" : "task_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
 	"isGeneratorProvided" : true,
-	"name" : "TimeTable_autogen_timestamp_deps",
+	"name" : "task_2_autogen_timestamp_deps",
 	"paths" : 
 	{
 		"build" : ".",

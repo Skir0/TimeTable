@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.29)
-project(TimeTable)
+project(task_2)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_AUTOMOC ON)
@@ -13,7 +13,7 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(TimeTable
+add_executable(task_2
 
         Event.h
         DateSchedule.h
@@ -27,7 +27,7 @@ add_executable(TimeTable
         main.cpp
         main_window.cpp
         main_window.h)
-target_link_libraries(TimeTable
+target_link_libraries(task_2
         Qt::Core
         Qt::Gui
         Qt::Widgets
